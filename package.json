@@ -1,0 +1,25 @@
+{
+  "name": "siwi-template-docs",
+  "version": "1.0.0",
+  "description": "create docs base on vuepress by siwi-cli",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwi-cli/siwi-template-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siwi-cli/siwi-template-docs/issues"
+  },
+  "homepage": "https://github.com/siwi-cli/siwi-template-docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
