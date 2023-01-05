@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/siwi-cli/siwi-template-docs#readme",
   "devDependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.9.7"
   }
 }
